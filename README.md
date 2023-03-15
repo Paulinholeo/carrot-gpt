@@ -1,16 +1,21 @@
 # Free ChatGPT Site List
 
-这儿收集了一些免费好用的ChatGPT镜像站点
-> 🤭收藏此站点,不迷失；如果有站点失效或标注错误，请提交issues反馈
+Here are some free and useful ChatGPT mirror sites collected here.
 
-> 整理不易，感谢[赞赏](https://xx025.github.io/pages/zs/)
+Bookmark this site to avoid getting lost. If any of the sites are not working or labeled incorrectly, please submit issues for feedback.
 
-- ⭐:使用不受限
-- 🔑:需要进行登录
-- ⛔:有限地使用次数后需提供key或进行充值
-- ❓ :未测试
+Organizing is not easy, thank you for your support.
 
-## 站点列表
+- ⭐:Unrestricted use
+
+- 🔑:Login required
+
+- ⛔:Limited usage before requiring a key or recharge
+
+- ❓:Not tested
+
+List of Sites
+
 1. [⭐⭐]https://chat.theb.ai/
 
 2. [⭐⭐] https://www.chat2ai.cn/
@@ -31,17 +36,17 @@
 
 10. [⭐⭐] https://chat.zecoba.cn/
 
-11. [编程] https://www.aicodehelper.com/
+11. [Programming] https://www.aicodehelper.com/
 
-12. [综合] https://ai-toolbox.codefuture.top/
+12. [Comprehensive] https://ai-toolbox.codefuture.top/
 
-13. [虚拟女友] https://chilloutai.com/
+13. [Virtual girlfriend] https://chilloutai.com/
 
-14. [文字游戏] https://harry-potter.openai-lab.com
+14. [Word game] https://harry-potter.openai-lab.com
 
-15. [写故事] https://wordstory.streamlit.app/
+15. [Write a story] https://wordstory.streamlit.app/
 
-16. [AI 如来(佛)] https://hotoke.ai/
+16. [AI Budha] https://hotoke.ai/
 
 17. [⛔] https://fastgpt.app/
 
@@ -121,11 +126,14 @@
 
 55. ~~https://chatgpt.ddiu.me/~~
 
+## Bem-vindo a contribuir
 
-## 欢迎补充
->GitHub 仓库地址: https://github.com/xx025/carrot
+131
 
-提交[issues](https://github.com/xx025/carrot/issues)或[pr](https://github.com/xx025/carrot/pulls)(dev分支)分享你发现的新的站点，或报告失效站点
+>Endereço do repositório GitHub:https://github.com/xx025/carrot 
+>Fork english: https://github.com/Paulinholeo/carrot-gpt/
+
+
 
 
 
